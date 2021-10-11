@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = joaofranciscoreis13@outlook.com
+	name = Joao Reis
